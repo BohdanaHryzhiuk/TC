@@ -1,12 +1,16 @@
 {
-  "posts": [
+  "sendCheckout": [
     {
-      "id": 1,
-      "test": "Post 1"
-    },
-    {
-      "id": 2,
-      "test": "Post 2"
+      "order": 'orderNew', 
+      "nameSurname": 'fullname', 
+      "numberPhone": 'number', 
+      "email": 'email',
+      "address": 'address', 
+      "comment": 'addition', 
+      "payment": 'paymentMethod', 
+      "deliveryMethod": 'deliveryMethod', 
+      "total": 'priceTotalChec',  
+      "date": 1
     }
-    ]
+  ]
 }
