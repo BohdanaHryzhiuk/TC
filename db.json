@@ -1,15 +1,15 @@
 {
   "sendCheckout": [
     {
-      "order": 'orderNew', 
-      "nameSurname": 'fullname', 
-      "numberPhone": 'number', 
-      "email": 'email',
-      "address": 'address', 
-      "comment": 'addition', 
-      "payment": 'paymentMethod', 
-      "deliveryMethod": 'deliveryMethod', 
-      "total": 'priceTotalChec',  
+      "order": "orderNew", 
+      "nameSurname": "fullname", 
+      "numberPhone": "number", 
+      "email": "email",
+      "address": "address", 
+      "comment": "addition", 
+      "payment": "paymentMethod", 
+      "delivery": "deliveryMethod", 
+      "total": "priceTotalChec",  
       "date": 1
     }
   ]
